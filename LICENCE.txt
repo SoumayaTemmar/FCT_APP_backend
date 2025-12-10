@@ -1,0 +1,20 @@
+Copyright (c) 2025 Soumaya Temmar
+
+All rights reserved.
+
+This source code is provided for educational and learning purposes only.
+
+Permission is granted to view, study, and learn from this code for personal,
+non-commercial use only.
+
+You are NOT allowed to:
+- Use this project for commercial purposes
+- Host or deploy this application publicly or privately
+- Sell or sublicense this code
+- Use this code in any paid product or service
+- Redistribute this project as your own work
+
+Any unauthorized use of this software is strictly prohibited
+and may result in legal action.
+
+For special permission, please contact the author.
