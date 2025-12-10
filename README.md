@@ -67,8 +67,8 @@ The Class Diagram explains the core business logic and relationships between ent
 http://localhost:8080/swagger-ui.html
 
 ## Docker Setup (PostgreSQL Only)
-start database: docker-compose up -d
-stop database: docker-compose down
+- start database: docker-compose up -d
+- stop database: docker-compose down
 
 ## Installation & Run
 - 1- clone the repository: 
