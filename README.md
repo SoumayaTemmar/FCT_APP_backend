@@ -71,14 +71,16 @@ http://localhost:8080/swagger-ui.html
 - stop database: docker-compose down
 
 ## Installation & Run
-- 1- clone the repository: 
+### 1- clone the repository: 
 - git clone : https://github.com/SoumayaTemmar/FCT_APP_backend.git
 - cd FCT_APP_backend
 
-- 2- Run Backend (Spring Boot)
+### 2- Run Backend (Spring Boot)
 - mvn clean install
 - mvn spring-boot:run
 
+### frontEnd Repository: 
+https://github.com/SoumayaTemmar/FCT_APP_frontend.git
 
 👤 Author
 
